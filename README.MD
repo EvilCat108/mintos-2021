@@ -1,6 +1,6 @@
-https://registry.terraform.io/providers/hashicorp/helm/latest/docs
-https://artifacthub.io/packages/helm/bitnami/postgresql
-https://artifacthub.io/packages/helm/oteemo-charts/sonarqube
+https://registry.terraform.io/providers/hashicorp/helm/latest/docs  
+https://artifacthub.io/packages/helm/bitnami/postgresql  
+https://artifacthub.io/packages/helm/oteemo-charts/sonarqube  
 
 ### Requirements:
 * Minikube
