@@ -1,7 +1,3 @@
-https://registry.terraform.io/providers/hashicorp/helm/latest/docs  
-https://artifacthub.io/packages/helm/bitnami/postgresql  
-https://artifacthub.io/packages/helm/oteemo-charts/sonarqube  
-
 ### Requirements:
 * Minikube
 * Terraform
@@ -13,3 +9,8 @@ https://artifacthub.io/packages/helm/oteemo-charts/sonarqube
 
 * $ terraform init
 * $ terraform apply -auto-approve
+
+### Usefull links:
+https://registry.terraform.io/providers/hashicorp/helm/latest/docs  
+https://artifacthub.io/packages/helm/bitnami/postgresql  
+https://artifacthub.io/packages/helm/oteemo-charts/sonarqube  
