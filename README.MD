@@ -7,7 +7,7 @@ https://artifacthub.io/packages/helm/oteemo-charts/sonarqube
 * Terraform
 * Helm
 
-**For this Terraform script to work it's neccessary to have minikube configuration on this path "~/.kube/config"**
+**For this Terraform script to work it's neccessary to have minikube configuration on this path: "~/.kube/config"**
 
 ### Next, run:
 
